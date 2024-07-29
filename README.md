@@ -2,23 +2,18 @@
   <img alt="Logo" src="https://github.com/chandrikadeb7/chandrikadeb7.github.io/blob/code/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  Personal Portfolio Website
+  Portfolio Website
 </h1>
-<p align="center">
-  The second iteration of <a href="https://chandrikadeb7.github.io/" target="_blank">chandrikadeb7.github.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted using <a href="https://pages.github.com/" target="_blank">Github Pages</a>
-</p>
-<p align="center">
-  Previous iterations:
-  <a href="https://github.com/chandrikadeb7/chandrikadeb7.github.io-v1" target="_blank">Version 1</a>
-</p>
 
 <div align="center">
   <img alt="Demo" src="https://github.com/chandrikadeb7/chandrikadeb7.github.io/blob/code/src/images/demo.png" />
 </div>
 
-### TL;DR
+### Tribute
 
-Yes, you can fork this repo. Please give proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
+Thanks to Brittany Chiang for the Design and Build [brittanychiang.com](https://brittanychiang.com).
+
+Thanks to Chandrika Deb for making her version of Brittany Chiang's website available to be forked [https://chandrikadeb7.github.io/](https://chandrikadeb7.github.io/).
 
 ## 🛠 Installation & Set Up
 
