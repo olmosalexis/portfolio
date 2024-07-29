@@ -1,6 +1,6 @@
 ---
 date: '2022-06-01'
-title: 'Developer'
+title: 'Summer Analyst'
 company: 'JPMorgan Chase'
 location: 'Hybrid'
 range: 'June 2022 - August 2022'

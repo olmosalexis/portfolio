@@ -1,7 +1,7 @@
 ---
-date: '2022-06-01'
+date: '2022-04-01'
 title: 'Advisee'
-company: 'Microsoft Technical Resilience Program'
+company: 'Microsoft '
 location: 'Remote'
 range: 'March 2022 - May 2022'
 url: 'https://www.microsoft.com/'
