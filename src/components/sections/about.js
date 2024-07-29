@@ -125,8 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Market Research', 'Data Analysis', 'Brand Management', 'Digital Marketing', 
-  'SPSS', 'Tableau', 'MS Office', 'Python'];
+  const skills = ['Fullstack Development', 'JavaScript', 'React', 'Node.js', 'Python', 'AEM (Adobe Experience Manager)', 'Scrum', 'Git'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -136,32 +135,20 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-            With a core specialization in Marketing &amp; Strategy, I've orchestrated impactful
-             strategies in brand perceptions during my MBA summer internship for {' '}
-             <a href="https://www.tatastructura.com">Tata Structura</a> {' '} at{' '} 
-             <a href="https://drive.google.com/file/d/1xhGTFz7pe6kP7bZ4peDgJ7hlG630K8rz/view?usp=sharing">Tata Steel</a>.
+            With a dual degree in Computer Science and Economics from Grinnell College, I bring a unique perspective
+            to the intersection of technology and finance. Currently, I am a Fullstack Software Engineer at {' '}
+            <a href="https://www.northerntrust.com">Northern Trust</a>, where I develop and maintain robust, scalable 
+            web applications for the public websites team. My role involves collaborating with cross-functional teams 
+            to deliver seamless user experiences and implementing cutting-edge technologies to enhance our digital presence.
             </p>
 
             <p>
-            I also spearheaded employer branding initiatives for {' '}
-            <a href="https://drive.google.com/file/d/1w-uN9jb86pxFXPYMDu_78P-d1CZJAx3V/view?usp=sharing">
-              Aditya Birla Fashion and Retail</a>, {' '} resulting in a remarkable 37% surge in consumer engagement 
-              during my remote live project as part of my MBA journey.
+            While I am passionate about software engineering, innovative technology, and finance, I aim to revolutionize 
+            how technology is used to educate and connect people. My dedication to my craft drives me to lead and inspire 
+            through impactful technology initiatives.
             </p>
 
-            <p>
-            During my tenure at {' '} <a href="https://www.amdocs.com">Amdocs</a>, {' '} 
-            where I served as a Software Developer, I had the honor of being selected as one of 16 elite {' '} 
-            <a href="https://drive.google.com/file/d/16BGu5InZZDGCtoWas560ezwKsgVBKbI9/view?usp=sharing">Innovation Agents</a>.
-            </p>
-
-            <p>
-            Moreover, my role as a {' '} <a href="https://drive.google.com/file/d/1iRTZfE7v5Y99BYZVxevaGBVtF90t-TOb/view?usp=sharing">
-              Placement Coordinator</a> {' '} at IIM Rohtak saw me cultivate over 30 new corporate relationships, culminating in a 
-              remarkable 42% boost in campus placements.
-            </p>
-
-            <p>My skills are not limited to this list!</p>
+            <p>Here is a list of skills I have!</p>
           </div>
 
           <ul className="skills-list">
